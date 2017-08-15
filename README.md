@@ -1,3 +1,2 @@
 # Bootstrap-Theme
-
-![screencapture-file-d-demo-html-1502800191771](https://user-images.githubusercontent.com/25843455/29315967-98d5271c-81e3-11e7-86d0-89f6bb73c7db.png)
+![screencapture-file-d-demo-demo-html-1502801661902](https://user-images.githubusercontent.com/25843455/29316875-29c792e8-81e7-11e7-87b4-d36ef40d63a6.png)
